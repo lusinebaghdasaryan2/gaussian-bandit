@@ -7,8 +7,8 @@ Streamlit frontend with the original Beta–Bernoulli carousel bandit **plus** a
 
 ## Project links
 
-- GitHub repository: _<paste your repo URL>_
-- Deployed Streamlit app: _<paste your Streamlit URL>_
+
+- Deployed Streamlit app: https://gaussian-bandit-eivwfiyuou9mbuqd7vdqzb.streamlit.app/Interaction
 - Starting application: https://carousel-mvp.streamlit.app/
 
 ## Credits
