@@ -3,7 +3,7 @@
 Streamlit frontend with the original Beta–Bernoulli carousel bandit **plus** a new
 **Gaussian Bandit** page (Thompson sampling for continuous rewards with known noise σ).
 
-**Author(s):** _<your name(s)>_
+**Authors:** Gayane Hambardzumyan, Lusine Baghdasaryan, Meri Grigoryan
 
 ## Project links
 
